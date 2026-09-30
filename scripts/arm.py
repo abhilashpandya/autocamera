@@ -60,7 +60,7 @@ Arm API
 
 """
 
-# sphinx-apidoc -F -A "Yijun Hu" -o doc src
+# sphinx-apidoc -F -A "Yijun Hu" -o doc src... hello.
 
 import rospy
 import threading
